@@ -1,6 +1,7 @@
-* 0.0.2
+* 0.0.2 - 0.0.21
 
 	+ Added `LICENSE.md` (MIT)
+	+ Also to modules
 
 * 0.0.1
 
