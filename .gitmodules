@@ -1,0 +1,6 @@
+[submodule "Extensions"]
+	path = Extensions
+	url = https://github.com/eppz/Unity.Library.eppz.Extensions
+[submodule "Easing"]
+	path = Easing
+	url = https://github.com/eppz/Unity.Library.eppz.Easing
