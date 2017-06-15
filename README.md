@@ -1,6 +1,6 @@
 # eppz!
 
-Unity everydayers master project.
+**Unity everydayers** master project.
 
 ## Install
 
@@ -10,10 +10,10 @@ Add as a submodule to `Assets/Plugins/eppz!` (then update submodules).
 
 ## Modules
 
-	* [Easing](https://github.com/eppz/Unity.Library.eppz.Easing)
+* [Easing](https://github.com/eppz/Unity.Library.eppz.Easing)
 
-		+ Normalized easing functions. See standalone project repository Unity.Library.eppz_easing for details.
+	+ Normalized easing functions. See standalone project repository [Unity.Library.eppz_easing](https://github.com/eppz/Unity.Library.eppz_easing) for details.
 
-	* [Extensions](https://github.com/eppz/Unity.Library.eppz.Extensions)
+* [Extensions](https://github.com/eppz/Unity.Library.eppz.Extensions)
 
-		+ String extensions for the everyday. 
+	+ String extensions for the everyday. 
