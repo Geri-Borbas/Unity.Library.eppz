@@ -17,3 +17,7 @@ Add as a submodule to `Assets/Plugins/eppz!` (then update submodules).
 * [Extensions](https://github.com/eppz/Unity.Library.eppz.Extensions)
 
 	+ String extensions for the everyday. 
+
+## License
+
+> Licensed under the [Open Source MIT license](http://en.wikipedia.org/wiki/MIT_License).
