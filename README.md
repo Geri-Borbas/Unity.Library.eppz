@@ -20,4 +20,4 @@ Add as a submodule to `Assets/Plugins/eppz!` (then update submodules).
 
 ## License
 
-> Licensed under the [Open Source MIT license](http://en.wikipedia.org/wiki/MIT_License).
+> Licensed under the [MIT license](http://en.wikipedia.org/wiki/MIT_License).
