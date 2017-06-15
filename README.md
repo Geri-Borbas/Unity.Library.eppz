@@ -4,9 +4,14 @@
 
 ## Install
 
-Add as a submodule to `Assets/Plugins/eppz!` (then update submodules). 
+Add this repository as **a submodule to your project** repository into `Assets/Plugins/eppz!` (then update submodules recursive). 
 
-> You can opt-out submodules best by fork this repository, then simply remove submodules from the repository.
+```
+git submodule add -f https://github.com/eppz/Unity.Library.eppz Assets/Plugins/eppz!
+git submodule update --init --recursive Assets/Plugins/eppz!
+```
+
+> You can opt-out submodules best by fork this repository, then simply remove unnecessary submodules (so you'll still have versioning and uplink maintained).
 
 ## Modules
 
@@ -17,6 +22,10 @@ Add as a submodule to `Assets/Plugins/eppz!` (then update submodules).
 * [Extensions](https://github.com/eppz/Unity.Library.eppz.Extensions)
 
 	+ String extensions for the everyday. 
+
+* [Utils](https://github.com/eppz/Unity.Library.eppz.Utils)
+
+	+ 🛠️ Collection of Unity helper tools. Mostly small, single filed utility classes (they grouped here as they don't earned their own repositories yet).
 
 ## License
 
