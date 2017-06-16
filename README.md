@@ -4,11 +4,12 @@
 
 ## Install
 
-Add this repository as **a submodule to your project** repository into `Assets/Plugins/eppz!` (then update submodules recursive). 
+Add this repository as **a submodule to your project** repository into `Assets/Plugins/eppz!` (track `master` branch, then update submodules recursive). 
 
 ```
 git submodule add -f https://github.com/eppz/Unity.Library.eppz Assets/Plugins/eppz!
-git submodule update --init --recursive Assets/Plugins/eppz!
+git config -f .gitmodules submodule.'Assets/Plugins/eppz!'.branch master
+git submodule update --init --recursive --remote Assets/Plugins/eppz!
 ```
 
 > You can opt-out submodules best by fork this repository, then simply remove unnecessary submodules (so you'll still have versioning and uplink maintained).

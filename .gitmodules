@@ -1,9 +1,12 @@
 [submodule "Extensions"]
 	path = Extensions
 	url = https://github.com/eppz/Unity.Library.eppz.Extensions
+	branch = master
 [submodule "Easing"]
 	path = Easing
 	url = https://github.com/eppz/Unity.Library.eppz.Easing
+	branch = master
 [submodule "Utils"]
 	path = Utils
 	url = https://github.com/eppz/Unity.Library.eppz.Utils
+	branch = master
