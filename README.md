@@ -24,6 +24,10 @@ git submodule update --init --recursive --remote Assets/Plugins/eppz!
 
 	+ String extensions for the everyday. 
 
+* [Meshes](https://github.com/eppz/Unity.Library.eppz.Meshes)
+
+	+ Procedural runtime ring and circle mesh creator classes for Unity.	
+
 * [Utils](https://github.com/eppz/Unity.Library.eppz.Utils)
 
 	+ 🛠️ Collection of Unity helper tools. Mostly small, single filed utility classes (they grouped here as they don't earned their own repositories yet).

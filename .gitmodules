@@ -10,3 +10,7 @@
 	path = Utils
 	url = https://github.com/eppz/Unity.Library.eppz.Utils
 	branch = master
+[submodule "Meshes"]
+	path = Meshes
+	url = https://github.com/eppz/Unity.Library.eppz.Meshes
+	branch = master

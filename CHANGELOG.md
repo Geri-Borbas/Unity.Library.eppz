@@ -1,3 +1,10 @@
+# eppz!
+
+* 0.0.3
+
+	+ Added `Utils` submodule
+	+ Added `Meshes` submodule
+
 * 0.0.2 - 0.0.21
 
 	+ Added `LICENSE.md` (MIT)
