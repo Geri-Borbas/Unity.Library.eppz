@@ -2,7 +2,7 @@
 
 **Unity everydayers** master project.
 
-## Install
+## Install as submodule
 
 Add this repository as **a submodule to your Unity project** repository into **`Assets/Plugins/eppz!`**. Hook up directly this repository (explicitly tracking `master` branch), then update / initialize submodules (recursive).
 
@@ -12,6 +12,8 @@ git submodule update --init --recursive --remote Assets/Plugins/eppz!
 ```
 
 > 💡 You can opt-out submodules best by fork this repository, then simply remove unnecessary submodules (so you'll still have versioning and uplink maintained to the rest).
+
+## Install as direct download
 
 Alternatively, you can **directly download** the [**`archive.zip`**](https://github.com/eppz/Unity.Library.eppz/archive/master.zip), then extract it to **`Assets/Plugins/eppz!`** in your Unity project folder.
 
