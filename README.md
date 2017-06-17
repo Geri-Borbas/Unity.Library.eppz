@@ -13,7 +13,7 @@ git submodule update --init --recursive --remote Assets/Plugins/eppz!
 
 > 💡 You can opt-out submodules best by fork this repository, then simply remove unnecessary submodules (so you'll still have versioning and uplink maintained to the rest).
 
-Alternatively, you can **directly download** the 🗄️ [**`archive.zip`**] (https://github.com/eppz/Unity.Library.eppz/archive/master.zip), then extract it to **`Assets/Plugins/eppz!`** in your Unity project folder.
+Alternatively, you can **directly download** the **[`archive.zip`]** (https://github.com/eppz/Unity.Library.eppz/archive/master.zip), then extract it to **`Assets/Plugins/eppz!`** in your Unity project folder.
 
 > 💡 Having it stored in `Assets/Plugins` folder means that the library code won't get recompiled every time Unity compiles your project code.
 
