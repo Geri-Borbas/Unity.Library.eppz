@@ -4,15 +4,18 @@
 
 ## Install
 
-Add this repository as **a submodule to your project** repository into `Assets/Plugins/eppz!` (track `master` branch, then update submodules recursive). 
+Add this repository as **a submodule to your Unity project** repository into **`Assets/Plugins/eppz!`**. Hook up directly this repository (explicitly tracking `master` branch), then update / initialize submodules (recursive).
 
 ```
-git submodule add -f https://github.com/eppz/Unity.Library.eppz Assets/Plugins/eppz!
-git config -f .gitmodules submodule.'Assets/Plugins/eppz!'.branch master
+git submodule add -b master -f https://github.com/eppz/Unity.Library.eppz Assets/Plugins/eppz!
 git submodule update --init --recursive --remote Assets/Plugins/eppz!
 ```
 
-> You can opt-out submodules best by fork this repository, then simply remove unnecessary submodules (so you'll still have versioning and uplink maintained).
+> 💡 You can opt-out submodules best by fork this repository, then simply remove unnecessary submodules (so you'll still have versioning and uplink maintained to the rest).
+
+Alternatively, you can **directly download** the 🗄️ [**`archive.zip`**] (https://github.com/eppz/Unity.Library.eppz/archive/master.zip), then extract it to **`Assets/Plugins/eppz!`** in your Unity project folder.
+
+> 💡 Having it stored in `Assets/Plugins` folder means that the library code won't get recompiled every time Unity compiles your project code.
 
 ## Modules
 
@@ -22,11 +25,15 @@ git submodule update --init --recursive --remote Assets/Plugins/eppz!
 
 * [Extensions](https://github.com/eppz/Unity.Library.eppz.Extensions)
 
-	+ String extensions for the everyday. 
+	+ String extensions for the everyday.
+
+* [Geometry](https://github.com/eppz/Unity.Library.eppz.Geometry)
+
+	+ 📐 2D Geometry for Unity.
 
 * [Meshes](https://github.com/eppz/Unity.Library.eppz.Meshes)
 
-	+ Procedural runtime ring and circle mesh creator classes for Unity.	
+	+ Procedural runtime ring and circle mesh creator classes for Unity.
 
 * [Utils](https://github.com/eppz/Unity.Library.eppz.Utils)
 
