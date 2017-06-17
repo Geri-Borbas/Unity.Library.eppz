@@ -14,3 +14,7 @@
 	path = Meshes
 	url = https://github.com/eppz/Unity.Library.eppz.Meshes
 	branch = master
+[submodule "Geometry"]
+	path = Geometry
+	url = https://github.com/eppz/Unity.Library.eppz.Geometry
+	branch = master

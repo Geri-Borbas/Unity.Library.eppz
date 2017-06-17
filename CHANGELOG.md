@@ -1,5 +1,10 @@
 # eppz!
 
+* 0.0.4
+
+	+ Ignore `.meta` files (no value for script assets)
+	+ Added `Geometry` submodule
+
 * 0.0.3
 
 	+ Added `Utils` submodule
