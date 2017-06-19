@@ -1,5 +1,11 @@
 # eppz!
 
+* 0.0.5
+
+	+ Added `Lines` submodule
+	+ `Define.cs` to indicate library presence
+	+ Update submodules
+
 * 0.0.4
 
 	+ Ignore `.meta` files (no value for script assets)
