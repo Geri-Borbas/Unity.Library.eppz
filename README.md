@@ -33,6 +33,10 @@ Alternatively, you can **directly download** the [**`Unity.Library.eppz-master.z
 
 	+ 📐 2D Geometry for Unity.
 
+* [Lines](https://github.com/eppz/Unity.Library.eppz.Lines)
+
+	+ Lightweight OpenGL line rendering for Unity. Like `Debug.DrawLine` in Game view.
+
 * [Meshes](https://github.com/eppz/Unity.Library.eppz.Meshes)
 
 	+ Procedural runtime ring and circle mesh creator classes for Unity.
