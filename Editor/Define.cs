@@ -12,7 +12,7 @@ namespace EPPZ.Editor
 	{
 
 
-		const string define = "EPPZ_IS_AVAILABLE";
+		const string define = "EPPZ";
 
 
 		static Define()
