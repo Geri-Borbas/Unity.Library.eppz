@@ -22,3 +22,7 @@
 	path = Lines
 	url = https://github.com/eppz/Unity.Library.eppz.Lines
 	branch = master
+[submodule "Persistence"]
+	path = Persistence
+	url = https://github.com/eppz/Unity.Library.eppz.Persistence
+	branch = master

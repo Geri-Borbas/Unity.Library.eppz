@@ -1,5 +1,9 @@
 # eppz!
 
+* 0.0.6
+
+	+ Added `Persistence` submodule
+
 * 0.0.5
 
 	+ Added `Lines` submodule

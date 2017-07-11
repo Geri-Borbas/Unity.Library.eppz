@@ -41,6 +41,10 @@ Alternatively, you can **directly download** the [**`Unity.Library.eppz-master.z
 
 	+ Procedural runtime ring and circle mesh creator classes for Unity.
 
+* [Persistence](https://github.com/eppz/Unity.Library.eppz.Persistence)
+
+	+ Object serialization (Binary, JSON, GZip).
+
 * [Utils](https://github.com/eppz/Unity.Library.eppz.Utils)
 
 	+ 🛠️ Collection of Unity helper tools. Mostly small, single filed utility classes (they grouped here as they don't earned their own repositories yet).
