@@ -1,4 +1,4 @@
-# eppz!
+# eppz! [![Build Status](https://travis-ci.org/eppz/Unity.Test.eppz.png?branch=master)](https://travis-ci.org/eppz/Unity.Test.eppz)
 
 **Unity everydayers** master project.
 
