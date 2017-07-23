@@ -43,7 +43,7 @@ Alternatively, you can **directly download** the [**`Unity.Library.eppz-master.z
 
 * [Persistence](https://github.com/eppz/Unity.Library.eppz.Persistence)
 
-	+ Object serialization (Binary, JSON, GZip).
+	+ 📦 Object serialization (Binary, JSON, Gzip) wrapped up for the everyday.
 
 * [Utils](https://github.com/eppz/Unity.Library.eppz.Utils)
 
