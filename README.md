@@ -21,6 +21,10 @@ Alternatively, you can **directly download** the [**`Unity.Library.eppz-master.z
 
 ## Modules
 
+* [Cloud](https://github.com/eppz/Unity.Library.eppz.Cloud)
+
+	+  iCloud Key-value store native iOS plugin for Unity. With callbacks on changes per value.
+
 * [Easing](https://github.com/eppz/Unity.Library.eppz.Easing)
 
 	+ Normalized easing functions. See standalone project repository [Unity.Library.eppz_easing](https://github.com/eppz/Unity.Library.eppz_easing) for details.
@@ -44,10 +48,6 @@ Alternatively, you can **directly download** the [**`Unity.Library.eppz-master.z
 * [Persistence](https://github.com/eppz/Unity.Library.eppz.Persistence)
 
 	+ 📦 Object serialization (Binary, JSON, Gzip) wrapped up for the everyday.
-
-* [Cloud](https://github.com/eppz/Unity.Library.eppz.Cloud)
-
-	+  iCloud Key-value store native iOS plugin for Unity. With callbacks on changes per value.
 
 * [Utils](https://github.com/eppz/Unity.Library.eppz.Utils)
 
