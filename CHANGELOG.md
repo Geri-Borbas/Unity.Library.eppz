@@ -1,5 +1,9 @@
 # eppz!
 
+* 0.0.7
+
+	+ Added `Cloud` submodule
+
 * 0.0.6
 
 	+ Added `Persistence` submodule

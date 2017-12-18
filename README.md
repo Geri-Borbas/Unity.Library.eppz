@@ -45,6 +45,10 @@ Alternatively, you can **directly download** the [**`Unity.Library.eppz-master.z
 
 	+ 📦 Object serialization (Binary, JSON, Gzip) wrapped up for the everyday.
 
+* [Cloud](https://github.com/eppz/Unity.Library.eppz.Cloud)
+
+	+  iCloud Key-value store native iOS plugin for Unity. With callbacks on changes per value.
+
 * [Utils](https://github.com/eppz/Unity.Library.eppz.Utils)
 
 	+ 🛠️ Collection of Unity helper tools. Mostly small, single filed utility classes (they grouped here as they don't earned their own repositories yet).

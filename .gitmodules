@@ -26,3 +26,7 @@
 	path = Persistence
 	url = https://github.com/eppz/Unity.Library.eppz.Persistence
 	branch = master
+[submodule "Cloud"]
+	path = Cloud
+	url = https://github.com/eppz/Unity.Library.eppz.Cloud
+	branch = master
