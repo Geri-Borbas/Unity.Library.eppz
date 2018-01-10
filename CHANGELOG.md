@@ -1,5 +1,9 @@
 # eppz!
 
+* 0.0.8
+
+	+ Update submodules
+
 * 0.0.7
 
 	+ Added `Cloud` submodule
