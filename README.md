@@ -49,6 +49,10 @@ Alternatively, you can **directly download** the [**`Unity.Library.eppz-master.z
 
 	+ 📦 Object serialization (Binary, JSON, Gzip) wrapped up for the everyday.
 
+* [Rate](https://github.com/eppz/Unity.Library.eppz.Rate)
+
+	+ ⭐ App Store rate mechanisms native iOS plugin for Unity.
+
 * [Utils](https://github.com/eppz/Unity.Library.eppz.Utils)
 
 	+ 🛠️ Collection of Unity helper tools. Mostly small, single filed utility classes (they grouped here as they don't earned their own repositories yet).

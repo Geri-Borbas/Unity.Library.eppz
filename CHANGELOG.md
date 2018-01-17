@@ -1,5 +1,9 @@
 # eppz!
 
+* 0.0.9
+
+	+ Added `Rate` submodule
+
 * 0.0.8
 
 	+ Update submodules

@@ -30,3 +30,7 @@
 	path = Cloud
 	url = https://github.com/eppz/Unity.Library.eppz.Cloud
 	branch = master
+[submodule "Rate"]
+	path = Rate
+	url = https://github.com/eppz/Unity.Library.eppz.Rate
+	branch = master
