@@ -25,6 +25,10 @@ Alternatively, you can **directly download** the [**`Unity.Library.eppz-master.z
 
 	+  iCloud Key-value store native iOS plugin for Unity. With callbacks on changes per value.
 
+* [DeepLink](https://github.com/eppz/Unity.Library.eppz.DeepLink)
+
+	+  Deep linking native iOS plugin for Unity. With deep link callbacks on app launch as well.
+
 * [Easing](https://github.com/eppz/Unity.Library.eppz.Easing)
 
 	+ Normalized easing functions. See standalone project repository [Unity.Library.eppz_easing](https://github.com/eppz/Unity.Library.eppz_easing) for details.
