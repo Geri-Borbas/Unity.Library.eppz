@@ -34,7 +34,3 @@
 	path = Rate
 	url = https://github.com/eppz/Unity.Library.eppz.Rate
 	branch = master
-[submodule "DeepLink"]
-	path = DeepLink
-	url = https://github.com/eppz/Unity.Library.eppz.DeepLink
-	branch = master
