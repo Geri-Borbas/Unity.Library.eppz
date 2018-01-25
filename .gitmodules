@@ -38,3 +38,7 @@
 	path = DeepLink
 	url = https://github.com/eppz/Unity.Library.eppz.DeepLink
 	branch = master
+[submodule "Networking"]
+	path = Networking
+	url = https://github.com/eppz/Unity.Library.eppz.Networking
+	branch = master

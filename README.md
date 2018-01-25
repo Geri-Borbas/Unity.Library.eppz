@@ -49,13 +49,17 @@ Alternatively, you can **directly download** the [**`Unity.Library.eppz-master.z
 
 	+ Procedural runtime ring and circle mesh creator classes for Unity.
 
+* [Networking](https://github.com/eppz/Unity.Library.eppz.Networking)
+
+	+ Unity networking for the everyday.
+
 * [Persistence](https://github.com/eppz/Unity.Library.eppz.Persistence)
 
 	+ 📦 Object serialization (Binary, JSON, Gzip) wrapped up for the everyday.
 
 * [Rate](https://github.com/eppz/Unity.Library.eppz.Rate)
 
-	+ ⭐ App Store rate mechanisms native iOS plugin for Unity.
+	+ App Store rate mechanisms native iOS plugin for Unity.
 
 * [Utils](https://github.com/eppz/Unity.Library.eppz.Utils)
 

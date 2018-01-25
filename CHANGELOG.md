@@ -1,6 +1,10 @@
 # eppz!
 
 
+* 0.1.1
+
+	+ Added `Networking` submodule
+
 * 0.1.0
 
 	+ Added `DeepLink` submodule
